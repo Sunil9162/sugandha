@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625797093820",
+    "project_id": "laundry-a238d",
+    "storage_bucket": "laundry-a238d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625797093820:android:25e3a3686f5e2b8966f3b9",
+        "android_client_info": {
+          "package_name": "com.laundrymap.sugandha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625797093820-oh1u7l78m41ar80vpegjrge27ic40tm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVX-mQvhuPI0NdeXStdWBbXzZ5kgqPYi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625797093820-oh1u7l78m41ar80vpegjrge27ic40tm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
